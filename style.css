@@ -1,0 +1,22 @@
+
+div{
+    padding: 5px;
+    margin: 10px;
+}
+
+.navn{
+    background-color: yellow;
+    margin: 3%;
+}
+
+.knapp {
+    background-color: blue;
+}
+
+.brett {
+    background-color: red;
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
